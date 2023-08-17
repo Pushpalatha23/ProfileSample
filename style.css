@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin: auto;
+    border: 10px solid red;
+    width: 25%;
+}
+
+marquee{
+    background-color: aliceblue;
+    color: black;
+}
+p{
+    text-align: justify;
+    text-decoration-color: blanchedalmond;
+    text-indent: 5%;
+    text-decoration-line:10px;
+
+
+}
+img{
+    float: left;
+    border: 10px solid;
+    border-color: blue;
+    border-style: double;
+}
+p::first-line{
+    color: rgb(209, 23, 156);
+}
+
+#plesant2 img{
+    float: right;
+}
+
+#plesant2 p{
+    text-indent: 0%;
+}
+
+#plesant2 p::first-line{
+    color: brown;
+}
+
+iframe{
+    width: 100%;
+}
