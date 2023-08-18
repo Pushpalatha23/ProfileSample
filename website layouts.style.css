@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin:auto;
+    border:antiquewhite;
+    width: auto;
+    height: auto;
+    background-color:green;
+}
+.topnav{
+    
+    background-color:pink ;
+}
+header{
+    text-align: center;
+    background-color: yellow;
+}
+article{
+    background: #000;
+    padding:fixed;
+    margin:auto;
+    background-color:yellowgreen;
+
+}
+body{
+    background-color:rgb(13, 136, 174);
+}
+footer{
+    padding: fixed;
+    margin: auto;
+    background-color: aqua;
+
+}
