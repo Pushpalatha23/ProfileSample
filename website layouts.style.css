@@ -6,28 +6,31 @@ h1{
     height: auto;
     background-color:rgb(223, 215, 215);
 }
-.topnav{
+.nav{
     float:left;
-    background-color:rgb(236, 236, 244) ;
-    padding: 20px;
+    background-color:rgb(249, 54, 109) ;
+    padding: auto;
+    width:auto;
+    text-indent: 30px;
+    font-size: large;
 }
 header{
     text-align: center;
     background-color:rgb;
 }
-article{
+div{
     background:rgb;
     padding:fixed;
     margin:auto;
-    background-color:rgb(189, 181, 181);
+    background-color:rgb(243, 225, 225);
 
-}
+}    
 body{
-    background-color:whitesmoke;
+    background-color:rgb(224, 224, 141);
 }
 footer{
     padding: fixed;
     margin: auto;
     background-color:rgb(223, 215, 215);
-
+text-align: center;
 }
